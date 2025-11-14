@@ -57,6 +57,6 @@ MIT License - see [LICENSE](LICENSE)
 ## 👩‍💻 Author
 
 **Rosalina Torres**
-- Email: rosalinatorres888@gmail.com
-- LinkedIn: [linkedin.com/in/rosalinatorres](https://linkedin.com/in/rosalinatorres)
+- Email: torres.ros@northeastern.edu
+- LinkedIn: [linkedin.com/in/rosalinatorres](https://linkedin.com/in/rosalina-torres)
 - GitHub: [@rosalinatorres888](https://github.com/rosalinatorres888)
