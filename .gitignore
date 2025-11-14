@@ -1,0 +1,81 @@
+# Environment
+.env
+.env.*
+!.env.example
+venv/
+env/
+ENV/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Testing
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+.tox/
+coverage.xml
+*.cover
+.hypothesis/
+
+# Data (keep structure, ignore contents)
+data/raw/*
+data/processed/*
+data/cache/*
+!data/*/.gitkeep
+
+# Logs
+logs/
+*.log
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Reports (keep examples)
+data/reports/*
+!data/reports/example_*
+
+# ML/Model files
+*.pkl
+*.h5
+*.pt
+*.pth
+*.onnx
+models/*
+!models/.gitkeep
+
+# Documentation builds
+docs/_build/
+docs/api/_autosummary/
+site/
+
+# OS Files
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
